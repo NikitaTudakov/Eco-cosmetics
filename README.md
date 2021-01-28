@@ -7,6 +7,6 @@ Implemented landing page according to [Figma design](https://www.figma.com/file/
 - Tablet 1024
 - Mobile (> 320px)
 
-  [DEMO LINK](https://NikitaTudakov.github.io/Eco_cosmetics/).
+ [DEMO LINK](https://NikitaTudakov.github.io/Eco-cosmetics/)
 
 
